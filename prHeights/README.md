@@ -1,0 +1,2 @@
+# Advanced Programming I. Exercise 5.3
+In this exercise, we will create an application to handle the average heights of the population of the different countries of the world. To do this, you must define the classes Country, World and CompHeight in the package heights. All methods that are requested will be considered public and all instance variables private.
