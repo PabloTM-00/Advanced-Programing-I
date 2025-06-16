@@ -1,0 +1,43 @@
+ANDALUCIA: 
+Almeria
+	Distrito(Almeria Distrito,246)
+	Distrito(Levante-Alto Almanzora,119)
+	Distrito(Poniente de Almeria,157)
+Cadiz
+	Distrito(Bahia de Cadiz-La Janda,542)
+	Distrito(Campo de Gibraltar Este,93)
+	Distrito(Campo de Gibraltar Oeste,251)
+	Distrito(Jerez-Costa Noroeste,397)
+	Distrito(Sierra de Cadiz,253)
+Cordoba
+	Distrito(Cordoba Distrito,558)
+	Distrito(Cordoba Norte,149)
+	Distrito(Cordoba Sur,355)
+	Distrito(Guadalquivir,101)
+Granada
+	Distrito(Granada Distrito,709)
+	Distrito(Granada Nordeste,63)
+	Distrito(Granada Sur,234)
+	Distrito(Metropolitano de Granada,1019)
+Huelva
+	Distrito(Condado-Campina,572)
+	Distrito(Huelva-Costa,691)
+	Distrito(Sierra de Huelva-Andavalo Central,112)
+Jaen
+	Distrito(Jaen,482)
+	Distrito(Jaen Nordeste,204)
+	Distrito(Jaen Norte,602)
+	Distrito(Jaen Sur,259)
+Malaga
+	Distrito(Axarquia,184)
+	Distrito(Costa del Sol,761)
+	Distrito(La Vega,291)
+	Distrito(Malaga Distrito,761)
+	Distrito(Serrania,99)
+	Distrito(Valle del Guadalhorce,262)
+Sevilla
+	Distrito(Aljarafe,663)
+	Distrito(Sevilla Distrito,1194)
+	Distrito(Sevilla Este,693)
+	Distrito(Sevilla Norte,1317)
+	Distrito(Sevilla Sur,638)
