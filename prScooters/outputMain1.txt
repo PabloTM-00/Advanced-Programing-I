@@ -1,0 +1,14 @@
+Aliquindoi
+Scooters: [(Company: Aliquindoi; Code: 100; Lat: -4.4495993; Lon: 36.7015323; Range: 5.0), (Company: Aliquindoi; Code: 101; Lat: -4.4204216; Lon: 36.7182771; Range: 2.0), (Company: Aliquindoi; Code: 102; Lat: -4.4150382; Lon: 36.7306184; Range: 5.0), (Company: Aliquindoi; Code: 105; Lat: -4.4150382; Lon: 36.7306184; Range: 7.0), (Company: Aliquindoi; Code: 110; Lat: -4.4356238; Lon: 36.9404817; Range: 4.0)]
+Errors: [ERROR: Lack of data in LINE: Aliquindoi;102;-4.4495993;36.7015323, ERROR: Incorrect data type in LINE: Aliquindoi;103;-4.4495993;36.7015323;hello, ERROR: Negative range IN LINE: Aliquindoi;104;-4.4495993;36.7015323;-8.5]
+Employees: {}
+
+Aliquindoi
+Scooters: [(Company: Aliquindoi; Code: 100; Lat: -4.4495993; Lon: 36.7015323; Range: 5.0), (Company: Aliquindoi; Code: 101; Lat: -4.4204216; Lon: 36.7182771; Range: 2.0), (Company: Aliquindoi; Code: 102; Lat: -4.4150382; Lon: 36.7306184; Range: 5.0), (Company: Aliquindoi; Code: 105; Lat: -4.4150382; Lon: 36.7306184; Range: 7.0), (Company: Aliquindoi; Code: 110; Lat: -4.4356238; Lon: 36.9404817; Range: 4.0)]
+Errors: [ERROR: Lack of data in LINE: Aliquindoi;102;-4.4495993;36.7015323, ERROR: Incorrect data type in LINE: Aliquindoi;103;-4.4495993;36.7015323;hello, ERROR: Negative range IN LINE: Aliquindoi;104;-4.4495993;36.7015323;-8.5]
+Employees: {11222333X=[100, 101, 102, 105], 99888777H=[110]}
+
+Aliquindoi
+Scooters: [(Company: Aliquindoi; Code: 100; Lat: -4.5444444; Lon: 36.8011111; Range: 10.0), (Company: Aliquindoi; Code: 101; Lat: -4.4204216; Lon: 36.7182771; Range: 2.0), (Company: Aliquindoi; Code: 102; Lat: -4.4150382; Lon: 36.7306184; Range: 5.0), (Company: Aliquindoi; Code: 105; Lat: -4.4150382; Lon: 36.7306184; Range: 7.0), (Company: Aliquindoi; Code: 110; Lat: -4.4356238; Lon: 36.9404817; Range: 4.0)]
+Errors: [ERROR: Lack of data in LINE: Aliquindoi;102;-4.4495993;36.7015323, ERROR: Incorrect data type in LINE: Aliquindoi;103;-4.4495993;36.7015323;hello, ERROR: Negative range IN LINE: Aliquindoi;104;-4.4495993;36.7015323;-8.5]
+Employees: {11222333X=[100, 101, 102, 105], 99888777H=[110]}
