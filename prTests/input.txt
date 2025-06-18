@@ -1,0 +1,14 @@
+maria luisa ; pr1 ; 9
+pepe luis ; pr3 ; 8
+ana luisa ; pr2 ; 7
+pepe luis ; pr1 ; 10
+juan luis ; pr2 ; 12
+xxx ; xxx ; xxx
+maria luisa ; pr1 ; 13
+juan luis ; pr3 ; 30
+xxxxxxxxxxxx
+maria luisa ; pr2 ; 20
+xxx ; pr3 ; -1
+pepe luis ; pr3 ; 13
+xxx ; pr5 ; 13
+ana luisa ; pr2 ; 35
