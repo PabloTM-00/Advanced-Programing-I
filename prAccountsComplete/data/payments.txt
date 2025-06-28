@@ -1,0 +1,26 @@
+*** Trip to Titan ***
+Thor:
+	Excursion -> 50.0
+	Tapas -> 25.0
+Captain Marvel:
+	Lunch -> 40.0
+	Tapas -> 20.0
+Iron Man:
+	Excursion -> 50.0
+	Tapas -> 30.0
+Captain America:
+	Tapas -> 20.0
+Black Widow:
+	Dinner -> 40.0
+	Tapas -> 25.0
+Dr. Strange:
+	Excursion -> 50.0
+	Theater -> 25.0
+Hulk:
+	Dinner -> 50.0
+	Excursion -> 50.0
+	Tapas -> 20.0
+	Theater -> 25.0
+Spiderman:
+	Dinner -> 40.0
+	Theater -> 30.0
